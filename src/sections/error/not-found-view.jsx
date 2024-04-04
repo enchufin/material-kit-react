@@ -44,7 +44,7 @@ export default function NotFoundView() {
             justifyContent: 'center',
           }}
         >
-          <Typography variant="h3" sx={{ mb: 3 }}>
+          <Typography variant="h1" sx={{ mb: 3, color: 'primary.lighter' }}>
             Sorry, page not found!
           </Typography>
 
